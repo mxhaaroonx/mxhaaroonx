@@ -1,3 +1,6 @@
+# Welcome to my Github!
+![Make your README-3](https://github.com/user-attachments/assets/e14000ef-1e4b-43b2-b787-5300461ae5af)
+
 # 💫 About Me:
 🔭 I’m currently working on personal Python projects<br>👯 I’m looking to collaborate on Artificial Intelligence and Machine Learning<br>🤝 I’m looking for help with anything and everything in computer science. Always looking to learn.<br>🌱 I’m currently learning ML/DL<br>💬 Ask me about Deep Learning<br>⚡ Fun fact : I am an artist on paper as much as I am on computer
 
